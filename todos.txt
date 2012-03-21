@@ -1,0 +1,8 @@
+Now:
+* Close down properly after pressing CTRL+C
+
+Feature:
+* Option to print file access list whilst running (verbose mode)
+* Option to print summary
+
+=> By default shows which file are being accessed in a realtime fashon
